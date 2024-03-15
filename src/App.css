@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  margin: 0;
+  padding:0;
+}
+
+
+.container{
+  padding: -1px 1rem;
+}
+.btn{
+  display: inline-block;
+  border: none;
+  background: #555;
+  color:#fff;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+.btn:hover{
+  background: #666;
+}
+body{
+  margin: 0;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
